@@ -2,22 +2,22 @@
     <div class="chat">
         <div class="title">
             <i class="fa fa-angle-left" @click="back"></i>
-            <span>佳仪是天才</span>
+            <span>聊天室</span>
             <i class="more" @click="openSide">...</i>
         </div>
         <div id="tip" v-show="isShowTip"></div>
         <div id="message">
             <!-- <div class="msg">
-                <div class="avatar">冒</div>
+                <div class="avatar">啊</div>
                 <div class="content">
-                    <div class="nickname">冒佳仪</div>
+                    <div class="nickname">啊啊啊</div>
                     <div class="text">这里是内容啊哈哈哈哈哦吼吼吼吼</div>
                 </div>
             </div>
             <div class="msg msgmyself">
-                <div class="avatar">冒</div>
+                <div class="avatar">啊</div>
                 <div class="content">
-                    <div class="nickname">冒佳仪</div>
+                    <div class="nickname">啊啊啊</div>
                     <div class="text">这里是内容啊哈哈哈哈哦吼吼吼吼</div>
                 </div>
             </div> -->
